@@ -5,18 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe89a57c-dbcc-4e01-857d-f7c6111a1549" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz1/scss/nullstyles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz1/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/.idea/month2-repeat.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/img/Logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prepros.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/assets/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/assets/hero-man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/assets/project_1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/webfonts/fa-v4compatibility.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/webfonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/webfonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/webfonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz2/webfonts/icomoon.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +27,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="SCSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -55,33 +56,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ACER/Desktop/Geeks/month2-repeat/dz1/assets&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/ACER/Desktop/Geeks/month2-repeat/dz2",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ACER\Desktop\Geeks\month2-repeat\dz2" />
       <recent name="C:\Users\ACER\Desktop\Geeks\month2-repeat\dz1\assets" />
       <recent name="C:\Users\ACER\Desktop\Geeks\month2-repeat\lesson3\img" />
       <recent name="C:\Users\ACER\Desktop\Geeks\month2-repeat\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ACER\Desktop\Geeks\month2-repeat\dz1\css" />
       <recent name="C:\Users\ACER\Desktop\Geeks\month2-repeat\dz1" />
       <recent name="C:\Users\ACER\Desktop\Geeks\month2-repeat\dz1\styles" />
       <recent name="C:\Users\ACER\Desktop\Geeks\month2-repeat\lesson3" />
@@ -107,7 +110,7 @@
       <workItem from="1757192589604" duration="39000" />
       <workItem from="1757192695671" duration="1982000" />
       <workItem from="1757194863876" duration="1885000" />
-      <workItem from="1757197279544" duration="631000" />
+      <workItem from="1757197279544" duration="1091000" />
     </task>
     <servers />
   </component>

@@ -5,27 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe89a57c-dbcc-4e01-857d-f7c6111a1549" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dz2/assets/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2/assets/hero-man.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2/assets/project_1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2/css/iconmoon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2/css/nullstyles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2/scss/nullstyles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2/webfonts/fa-v4compatibility.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2/webfonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2/webfonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2/webfonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz2/webfonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/assets/Apple.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/assets/Google.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/assets/Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/assets/YouTube.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/assets/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/assets/discord.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/assets/external.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/assets/hero-man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/assets/linkedin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/assets/project_1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/assets/reddit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/assets/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/css/iconmoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/css/nullstyles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/scss/nullstyles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/webfonts/fa-v4compatibility.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/webfonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/webfonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/webfonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dz3/webfonts/icomoon.woff" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz1/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dz1/scss/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/img/Logo.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +67,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="32EiORQEjjW6r645teR21tytwF1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -73,7 +83,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ACER/Desktop/Geeks/month2-repeat/dz2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ACER/Desktop/Geeks/month2-repeat/dz3&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -86,11 +96,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ACER\Desktop\Geeks\month2-repeat\dz2" />
       <recent name="C:\Users\ACER\Desktop\Geeks\month2-repeat\dz3" />
+      <recent name="C:\Users\ACER\Desktop\Geeks\month2-repeat\dz3\assets" />
+      <recent name="C:\Users\ACER\Desktop\Geeks\month2-repeat\dz2" />
       <recent name="C:\Users\ACER\Desktop\Geeks\month2-repeat\dz1\assets" />
       <recent name="C:\Users\ACER\Desktop\Geeks\month2-repeat\lesson3\img" />
-      <recent name="C:\Users\ACER\Desktop\Geeks\month2-repeat\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ACER\Desktop\Geeks\month2-repeat\dz3\assets" />
@@ -122,7 +132,8 @@
       <workItem from="1757197279544" duration="1091000" />
       <workItem from="1757198687919" duration="684000" />
       <workItem from="1757227327461" duration="605000" />
-      <workItem from="1757271499358" duration="1458000" />
+      <workItem from="1757271499358" duration="3457000" />
+      <workItem from="1757327252837" duration="2720000" />
     </task>
     <servers />
   </component>

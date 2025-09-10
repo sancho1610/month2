@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #979797;
+}
+
+.container {
+    width: 1200px;
+    margin: 20px auto;
+}
+
+input {
+    display: block;
+    margin: 8px 0;
+    font-size: 32px;
+    padding: 16px;
+}
+
+input:focus {
+    background-color: darkred;
+}
+textarea {
+    font-size: 32px;
+    padding: 16px 0;
+    resize: none;
+}

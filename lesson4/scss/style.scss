@@ -1,3 +1,6 @@
+$primary: black;
+
+
 h1 {
   font-size: 48px;
 }
@@ -7,11 +10,11 @@ section {
 }
 
 section:nth-child(4) {
-  background-color: black;
+  background-color: $primary;
 }
 
 section:nth-child(6) {
-  background-color: black;
+  background-color: $primary;
 }
 
 .normal {

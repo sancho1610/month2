@@ -5,7 +5,7 @@
   padding: 20px 0;
   font-size: 16px;
   margin: 0 auto;
-  @media (max-width: 755px) {
+  @media (max-width: 728px) {
     display: none;
   }
 }
@@ -26,10 +26,26 @@
   padding: 16px 20px;
   border-radius: 8px;
 }
-
+.mobile {
+  display: none;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+  @media (max-width: 728px) {
+    display: flex;
+  }
+}
+.burger-btn {
+  background-color: transparent;
+  font-size: 32px;
+}
 
 h1 {
   font-size: 48px;
+  @media (max-width: 728px) {
+    font-size: 32px;
+    text-align: center;
+  }
 }
 section {
   margin-top: 100px;
@@ -50,12 +66,18 @@ section:nth-child(6) {
   position: relative;
   display: flex;
   padding: 0 32px;
+  @media (max-width: 960px) {
+    flex-direction: column-reverse;
+  }
 }
 
 .container {
   max-width: 1280px;
   margin: 0 auto;
   padding: 0 32px;
+  @media (max-width: 960px) {
+    margin: 0 32px;
+  }
 }
 
 .header {
@@ -174,6 +196,10 @@ section:nth-child(6) {
   display: flex;
   justify-content: space-between;
   gap: 123px;
+  @media (max-width: 988px) {
+    flex-direction: column;
+    align-items: center;
+  }
 }
 
 .about-content {
@@ -236,6 +262,9 @@ section:nth-child(6) {
 .project:nth-child(even) {
   .project-image {
     order: 1;
+    @media (max-width: 960px) {
+      order: inherit;
+    }
   }
 }
 
@@ -259,6 +288,9 @@ section:nth-child(6) {
   justify-content: space-between;
   gap: 123px;
   margin-top: 20px;
+  @media (max-width: 960px) {
+    flex-direction: column-reverse;
+  }
 }
 .email,
 .phone {
@@ -277,6 +309,9 @@ section:nth-child(6) {
   border: 1px solid #000;
   height: 57px;
   width: 495px;
+  @media (max-width: 960px) {
+    width: 880px;
+  }
 }
 .form1 {
   margin-top: 20px;
@@ -284,6 +319,9 @@ section:nth-child(6) {
   border-radius: 8px;
   border: 1px solid #000;
   width: 495px;
+  @media (max-width: 960px) {
+    width: 880px;
+  }
   textarea {
     resize: none;
   }
@@ -298,17 +336,24 @@ section:nth-child(6) {
     background-color: #FFFFFF;
     color: #000000;
     transition: 0.4s;
+    @media (max-width: 960px) {
+      justify-content: center;
+    }
   }
   img {
     height: 64px;
   }
-    button {
+  button {
     background-color: #000;
     color: #fff;
     padding: 21px 19.5px;
     border-radius: 8px;
     font-size: 16px;
     font-family: "Open Sans", sans-serif;
+    @media (max-width: 960px) {
+      width: 528px;
+      text-align: center;
+    }
   }
 }
 .footer {

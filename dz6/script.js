@@ -31,4 +31,3 @@ if (isNaN(a) || a < 0) {
     console.log("Сумма скидки: " + discountAmount.toFixed(2) + " руб.");
     console.log("Итоговая сумма: " + finalAmount + " руб.");
 }
-
